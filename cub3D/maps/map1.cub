@@ -1,0 +1,15 @@
+F 220,100,111
+C 25,111,111
+R 1000 1000
+
+WE ./textures/tex2.xpm
+EA ./textures/spaceship.xpm
+SO ./textures/tex3.xpm
+NO ./textures/wood.xpm
+S ./textures/barrel.xpm
+
+
+
+1111
+10N1
+1111
